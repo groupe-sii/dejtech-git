@@ -1,0 +1,1 @@
+<img src="assets/thanks.jpg" style="zoom:2">
